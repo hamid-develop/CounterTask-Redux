@@ -1,0 +1,23 @@
+body {
+  background-color: #263483;
+  color: white;
+}
+div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+fieldset {
+  width: 450px;
+}
+span{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+}
